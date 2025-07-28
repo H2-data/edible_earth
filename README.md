@@ -1,4 +1,4 @@
-# Museum of Edible Earth - A data Analysis
+# Museum of Edible Earth - A Data Analysis
 
 This repository contains two Google Colab notebooks exploring the data in the Museum of Edible Earth (referred to as MOEE) collection exhibit. The link to their website is below:  
 https://masharu.nl/Museum-of-Edible-Earth
